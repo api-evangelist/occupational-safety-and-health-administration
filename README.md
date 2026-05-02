@@ -16,12 +16,12 @@ The Occupational Safety and Health Administration (OSHA) is a US federal agency 
 ## Timestamps
 
 - **Created:** 2024-12-25 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## Common Properties
 
 - [Website](https://www.osha.gov/)
-- [Documentation](https://enforcedata.dol.gov/)
+- [Documentation](https://data.dol.gov/)
 
 ## Maintainers
 
