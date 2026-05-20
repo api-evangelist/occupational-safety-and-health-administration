@@ -19,6 +19,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/us-department-of-labor-osha
   - type: Website
     url: https://www.osha.gov/
   - type: Documentation
